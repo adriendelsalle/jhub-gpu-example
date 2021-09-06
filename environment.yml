@@ -1,0 +1,34 @@
+name: materials-example
+channels:
+  - conda-forge
+  - fastai
+dependencies:
+  - ipympl
+  - ipywidgets
+  - jupyterlab=2
+  - matplotlib
+  - nbresuse
+  - numpy
+  - pandas
+  - psutil
+  - dill
+  - partd
+  - bokeh
+  - dask
+  - autograd
+  - keras
+  - tensorflow
+  - scikit-learn
+  - seaborn=0.10.1
+  - tqdm
+  - scikit-image
+  - Pillow
+  - nbgitpuller
+  - opencv-python-headless
+  - pip
+  - pytorch
+  - torchvision
+  - tslearn
+  - gym
+  - tqdm
+  - nltk
