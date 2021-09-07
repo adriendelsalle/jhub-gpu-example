@@ -32,3 +32,4 @@ dependencies:
   - gym
   - tqdm
   - nltk
+  - python=3.8
