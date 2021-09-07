@@ -5,7 +5,7 @@ channels:
 dependencies:
   - ipympl
   - ipywidgets
-  - jupyterlab=2
+  - jupyterlab
   - matplotlib
   - nbresuse
   - numpy
