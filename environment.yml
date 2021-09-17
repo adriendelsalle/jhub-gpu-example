@@ -2,6 +2,7 @@ name: materials-example
 channels:
   - conda-forge
   - fastai
+  - pytorch
 dependencies:
   - ipympl
   - ipywidgets
@@ -27,6 +28,7 @@ dependencies:
   - opencv-python-headless
   - pip
   - pytorch-gpu>=1.9
+  - torchaudio
   - torchvision
   - tslearn
   - gym
